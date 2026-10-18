@@ -1,0 +1,18 @@
+LOGOS DOS CLIENTES - um arquivo PNG por cliente, com estes nomes exatos (cerca de 400 px de largura):
+
+me-wash.png
+gastromotiva.png
+natureza-do-cabelo.png
+espaco-quara.png
+noo-cachacaria.png
+bar-da-frente.png
+bdf-copa.png
+valentins-burger.png
+ju-reis.png
+festival-gastronomia-preta.png
+sofia.png
+katita.png
+peak.png
+all-glow.png
+
+Se um logo não estiver na pasta, o site mostra o nome do cliente no lugar.

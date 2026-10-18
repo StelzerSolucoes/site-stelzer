@@ -1,0 +1,10 @@
+IMAGENS DO SITE - coloque nesta pasta (imagens) os arquivos abaixo, com estes nomes exatos:
+
+logo.png      Logo horizontal, versão clara para fundo escuro, fundo transparente (cerca de 600 px de largura)
+capa.jpg      Imagem da capa da página inicial, sem texto (cerca de 1920 px de largura)
+fachada.jpg   Foto do prédio, horizontal (cerca de 1200 px de largura)
+ceo.jpg       Foto da CEO, vertical (cerca de 800 x 1000 px)
+
+Logos dos clientes: coloque na pasta "clientes" (veja o LEIA-ME de lá).
+
+Regras: nomes em letras minúsculas, sem acentos e sem espaços. Se uma imagem não estiver na pasta, o site mostra um texto no lugar.
